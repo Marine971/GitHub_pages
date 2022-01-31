@@ -3,7 +3,7 @@
 ## How to setup the project
 
 ### Clone the Project
-`git clone https://github.com/Marine971/GitHub_pages.git`
+`git clone git@github.com:Marine971/GitHub_pages.git`
 
 ### Build docker container
 `docker-compose up -d`  </br> </br>
