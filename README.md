@@ -9,6 +9,3 @@
 `docker-compose up -d`  </br> </br>
 This command will create the docker container and its images (Apache server, Phpmyadmin, MYSQL)
 
-### Define environment variables
-
-You need to define some variables to use databases. </br>
